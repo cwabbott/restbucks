@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  cardNo: 1
+  expires: 2014-04-24
+  name: MyString
+  amount: 1
+
+two:
+  cardNo: 1
+  expires: 2014-04-24
+  name: MyString
+  amount: 1
